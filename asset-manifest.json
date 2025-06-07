@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/artfit/static/css/main.773c0fae.css",
+    "main.js": "/artfit/static/js/main.b1bd9f5e.js",
+    "index.html": "/artfit/index.html",
+    "main.773c0fae.css.map": "/artfit/static/css/main.773c0fae.css.map",
+    "main.b1bd9f5e.js.map": "/artfit/static/js/main.b1bd9f5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.773c0fae.css",
+    "static/js/main.b1bd9f5e.js"
+  ]
+}
