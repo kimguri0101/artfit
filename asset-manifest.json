@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/artfit/static/css/main.773c0fae.css",
-    "main.js": "/artfit/static/js/main.880959f9.js",
+    "main.js": "/artfit/static/js/main.c13c127b.js",
     "index.html": "/artfit/index.html",
     "main.773c0fae.css.map": "/artfit/static/css/main.773c0fae.css.map",
-    "main.880959f9.js.map": "/artfit/static/js/main.880959f9.js.map"
+    "main.c13c127b.js.map": "/artfit/static/js/main.c13c127b.js.map"
   },
   "entrypoints": [
     "static/css/main.773c0fae.css",
-    "static/js/main.880959f9.js"
+    "static/js/main.c13c127b.js"
   ]
 }
